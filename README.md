@@ -11,3 +11,12 @@ Docker를 통해 Oracle DB를 구성해봅니다.
 1. script 파일을 갖고 있을 때, Docker로 run 하는 것 만으로 Docker Oracle DB를 구성할 수 있어야 합니다.
 2. HA 서비스와 같이 Docker Oracle DB를 다수 띄어 놓고, 문제가 생길 시 이를 대체할 수 있는 기술을 확보합니다.
 
+---
+
+<br><br>
+
+# 1 Docker Oracle DB 과정
+
+<br><br>
+
+# 2 Docker Oracle DB HA 서비스 과정
